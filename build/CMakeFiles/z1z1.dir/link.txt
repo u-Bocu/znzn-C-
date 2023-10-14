@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/z1z1.dir/src/main.cpp.o -o z1z1 
